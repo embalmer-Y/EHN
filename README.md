@@ -1,2 +1,2 @@
-# ENN
+# EHN
 Embedded Hardware Network
